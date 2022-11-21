@@ -1,0 +1,32 @@
+.main__exchange--coins-table {
+    display: flex;
+    gap: 5rem;
+    height: 28rem;
+    max-width: max-content;
+}
+.main__exchange--coins-table {
+    display: flex;
+    height: 28rem;
+    max-width: max-content;
+    overflow-x: hidden;
+}
+.product__cards--container {
+        display: grid;
+        max-width: 93rem;
+        grid-template-rows: 16rem 16rem;
+        grid-template-columns: 2fr 2fr;
+        margin: 0 auto;
+}
+.main__plans--container-slider {
+    display: grid;
+    gap: 10rem;
+    height: 34.6rem;
+    max-width: max-content;
+    grid-auto-flow: column;
+}
+.main__plans--container-slider {
+    justify-content: center;
+    height: 34.6rem;
+    max-width: max-content;
+    overflow-x: hidden;
+}
